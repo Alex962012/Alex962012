@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I`m Alexander
 
+## I'm a junior Frontend Developer from Russia
+- 🎒I like to travel.
+- 👨‍💻I like to write code
+- 👨‍🎓I learning English
 <!--
 **Alex962012/Alex962012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
