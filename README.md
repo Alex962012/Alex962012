@@ -24,7 +24,6 @@
 ### Contacts:
 -  **Discord:** Atx-id#0796
 -  **Email:** alex.96_2012@inbox.ru
--  **Tel:** +7909811300#
 -  **CV:** https://alex962012.github.io/rsschool-cv/
 ---
 ### Courses:
