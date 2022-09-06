@@ -2,8 +2,8 @@
 
 ## I'm a junior Frontend Developer from Russia
 - 🎒I like to travel.
-- 👨‍💻I like to write code
-- 👨‍🎓I learning English
+- 👨‍💻I like to write a code
+- 👨‍🎓I learn English
 
 ---
 ### Skills: 
@@ -19,6 +19,13 @@
 ### Education:
 - Higher (Pacific State University - specialty is Applied Informatics) 
 
+---
+
+### Contacts:
+-  **Discord:** Atx-id#0796
+-  **Email:** alex.96_2012@inbox.ru
+-  **Tel:** +7909811300#
+-  **CV:** https://alex962012.github.io/rsschool-cv/
 ---
 ### Courses:
 * RS School JS / FRONT-END. STAGE 0 course (https://rs.school/js-stage0/) )
